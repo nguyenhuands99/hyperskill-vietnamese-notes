@@ -17,7 +17,12 @@ Mostly all the notes will be divided into 2 first main categories and others:
 
 <!--list out all notes-->
 
+-   Discrete Mathematics: Set and Function
+
+-   Linear Algebra
 
 ## Python Notes
 
 <!---list out all notes-->
+
+-   Decorators, Decorator in OOP
