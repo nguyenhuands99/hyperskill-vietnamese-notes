@@ -19,7 +19,7 @@ Mostly all the notes will be divided into 2 first main categories and others:
 
 -   Discrete Mathematics: Set and Function
 
--   Linear Algebra
+-   Linear Algebra: Matrices
 
 ## Python Notes
 
