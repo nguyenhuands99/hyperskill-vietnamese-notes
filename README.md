@@ -26,3 +26,7 @@ Mostly all the notes will be divided into 2 first main categories and others:
 <!---list out all notes-->
 
 -   Decorators, Decorator in OOP
+
+-   Abstract class
+
+-   Objects in Python (mutable, immutable, copies, hashable,..)
