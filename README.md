@@ -30,3 +30,9 @@ Mostly all the notes will be divided into 2 first main categories and others:
 -   Abstract class
 
 -   Objects in Python (mutable, immutable, copies, hashable,..)
+
+-   SQLAlchemy in Python
+
+-   Interacting with OS in Python (arguments, environment,..)
+
+-   Common data format: XML vs JSON
